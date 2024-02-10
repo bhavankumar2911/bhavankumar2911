@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavankumar2911" alt="bhavankumar2911" /></a> </p>
 
-- 🔭 I’m currently working on [TrueSkilled - Skill showcasing platform](https://github.com/bhavankumar2911/trueskilled)
-
 - 👨‍💻 All of my projects are available at [https://bhavankumar2911.github.io/](https://bhavankumar2911.github.io/)
 
 - 📫 How to reach me **bhavankumarcse2020@gmail.com**
