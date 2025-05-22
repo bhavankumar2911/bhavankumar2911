@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavan Kumar</h1>
-<h3 align="center">An Associate Engineer at <a href="https://www.presidio.com/">Presidio</a> and a freelance full-stack developer at <a href="https://www.upwork.com/">Upwork.com</a> with over 1+ years of development experience, with the ability to pick up tools and technologies quickly, I'm looking for a challenging opportunity in Germany to apply my knowledge for building and working with highly efficient, innovative and scalable applications.
-</h3>
+<h3 align="center">I am currently pursuing a master's degree in data science at FAU Erlangen-Nuremberg. I have gained practical experience in full-stack development and DevOps as an associate engineer from Presidio, in addition to a bachelor's degree in computer science and engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavankumar2911&label=Profile%20views&color=0e75b6&style=flat" alt="bhavankumar2911" /> </p>
 
