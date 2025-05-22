@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavan Kumar</h1>
-<h3 align="center">I am currently pursuing a master's degree in data science at FAU Erlangen-Nuremberg. I have gained practical experience in full-stack development and DevOps as an associate engineer from Presidio, in addition to a bachelor's degree in computer science and engineering.</h3>
+<h3 align="center">I am currently pursuing a master's degree in data science at FAU Erlangen-Nuremberg, in addition to a bachelor's degree in computer science and engineering. I have gained practical experience in full-stack development and DevOps as an associate engineer from Presidio.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavankumar2911&label=Profile%20views&color=0e75b6&style=flat" alt="bhavankumar2911" /> </p>
 
